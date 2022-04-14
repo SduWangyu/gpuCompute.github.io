@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/SduWangyu/gpuCompute.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## 点击查看演示
+<a href="dist/">dist</a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,8 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-## 点击查看演示
-<a href="dist/">dist</a>
+
 # Header 1
 ## Header 2
 ### Header 3
